@@ -1,7 +1,7 @@
 # hello-world
-学习
 
-learn to use github!
-To learn something about branches and pull requests.:smile:
+> **终身学习者；奋斗者；价值创造者**
 
-Respect All,Fear None.
+> **最怕一生碌碌无为，还当自己平凡可贵**
+
+> **Respect All,Fear None.**
